@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnganathiDubazana
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently a...
+- 🌱 I’m currently my third year in Applied Maths in University of Zululand
 - 💞️ I’m looking to collaborate on Building a learning Model
 - 📫 How to reach me dubazanasibusiso40@gmail.com
 
